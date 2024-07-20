@@ -44,32 +44,7 @@ Taluk office - Class
 	- It does a set of works
 	- Methods are written inside a class
 
-CLASS COMMON SYNTAX 
-	- AccessModifier class(keyword) ClassName { }
-	- public class TalukOffice {
-
-		}
-	
-public class TalukOffice {
-	- public void incomeTaxCertificateProcess() {
-		
-		}
-	- public void MarriageCertificateProcess() {
-		
-		}
-	- private void staffRoom() {
-
-		}
-	- protected void importantDocumentsRoom() {
-
-		}
-	
-}
-
-* incomeTaxCertificateProcess - cameCase
-	- class names should start with CAPITAL LETTER and followed by camelCase
-	- method names should start with SMALL LETTER and followed by camelCase
-	- all the java keywords starts with SMALL LETTER such as class, public, void etc.
+This is a check message
 
 
 
